@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/beefhorfun/risedemo/main/images/passport.jpg)
+![alt text](https://raw.githubusercontent.com/beefhorfun/risedemo/main/images/Wing%20Zero%20Face.png)
 
 <!-- Add your details -->
 
